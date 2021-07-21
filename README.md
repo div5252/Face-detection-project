@@ -16,4 +16,4 @@ Used Keras framework along with OpenCV and Pillow library.
 
 **Full body detection (in video)**
 
-https://user-images.githubusercontent.com/54735797/126532294-c45dc62e-d5e3-4a42-8360-069b02fd8c63.mp4
+![face-detected-video](https://user-images.githubusercontent.com/54735797/126533301-d7e2cc87-a3e3-4f76-b9f3-f37e05a50d75.gif)
